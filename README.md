@@ -32,6 +32,10 @@ I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer
 
 📕📜 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin RxJava Retrofit tutorial](https://dev.to/paulodhiambo/kotlin-rxjava-retrofit-tutorial-18hn)
+- [Kotlin and retrofit network calls](https://dev.to/paulodhiambo/kotlin-and-retrofit-network-calls-2353)
+- [Deploying React Webapp to github pages](https://dev.to/paulodhiambo/deploying-react-webapp-to-github-pages-2pfc)
+- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo)
