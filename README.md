@@ -28,5 +28,6 @@ I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=paulodhiambo&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo&hide=css)](https://github.com/paulodhiambo/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo)
