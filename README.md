@@ -16,7 +16,7 @@ I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer
 ![Dart](https://img.shields.io/badge/-dart-E34A86?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-flutter-E34A86?style=flat-square&logo=flutter)
 ![Django](https://img.shields.io/badge/-django-E34A86?style=flat-square&logo=django)
-![Spring](https://img.shields.io/badge/-spring-E34A86?style=flat-square&logo=spring)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
