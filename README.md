@@ -12,9 +12,9 @@ I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Kotlin](https://img.shields.io/badge/-kotlin-E34A86?style=flat-square&logo=kotlin)
-![Dart](https://img.shields.io/badge/-dart-E34A86?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/-flutter-E34A86?style=flat-square&logo=flutter)
+![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-181717?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-FCA121?style=flat-square&logo=flutter)
 ![Django](https://img.shields.io/badge/-django-E34A86?style=flat-square&logo=django)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
