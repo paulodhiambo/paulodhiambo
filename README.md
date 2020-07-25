@@ -30,4 +30,8 @@ I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=paulodhiambo&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo&hide=css)](https://github.com/paulodhiambo/github-readme-stats)
 
+📕📜 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo)
