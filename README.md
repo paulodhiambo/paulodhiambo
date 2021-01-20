@@ -2,10 +2,23 @@
 
 I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer science from [Jommo Kenyatta University](https://jkuat.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-paulodhiambo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulodhiambo/)](https://www.linkedin.com/in/paulodhiambo/)
-<a href="https://dev.to/paulodhiambo">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="paul odhiambo's DEV Profile" height="25" width="30">
-</a>
+<p align="left">
+  <a href="https://twitter.com/paulodhiamboh">
+    <img src="https://img.shields.io/twitter/follow/paulodhiamboh?paulodhiamboh?color=green&logo=twitter" alt="twitter" />
+  </a>
+  <a href="https://github.com/paulodhiambo/paulodhiambo">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo" alt="page views" />
+  </a>
+  <a href="https://www.reddit.com/user/paulodhiambo">
+    <img alt="Reddit User Paul Odhiambo" src="https://img.shields.io/reddit/user-karma/combined/paulodhiambo?label=paul&logo=reddit">
+  </a>
+  <a href="https://github.com/paulodhiambo?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/paulodhiambo?color=green&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/paulodhiambo">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 
 ## ⚡ Technologies
@@ -37,5 +50,3 @@ I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer
 - [Kotlin and retrofit network calls](https://dev.to/paulodhiambo/kotlin-and-retrofit-network-calls-2353)
 - [Deploying React Webapp to github pages](https://dev.to/paulodhiambo/deploying-react-webapp-to-github-pages-2pfc)
 <!-- BLOG-POST-LIST:END -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo)
