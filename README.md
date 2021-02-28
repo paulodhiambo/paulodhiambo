@@ -43,8 +43,28 @@ I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=paulodhiambo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo&hide=css)](https://github.com/paulodhiambo/github-readme-stats)
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=paulodhiambo&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo" />
+</a>
+
+<br>
+
+## Stuff I worked on last week⌚
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True"/>
+</a>
+
+<h2> About Me</h2>
+
+- 🔭 I’m currently working on Spring Boot Microservices
+
+- 🌱 I’m currently learning AWS cloud infrastructure
+
+- 👯 I’m looking to collaborate on Open source projects.
 
 📕📜 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
