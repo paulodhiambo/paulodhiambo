@@ -68,8 +68,8 @@ I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer
 
 📕📜 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [How to create Django REST APIs](https://dev.to/paulodhiambo/how-to-create-django-rest-apis-150m)
 - [Getting started with Spring Boot and Docker](https://dev.to/paulodhiambo/getting-started-with-spring-boot-and-docker-32hl)
 - [How to upload files to Amazon S3 in Spring Boot](https://dev.to/paulodhiambo/how-to-upload-files-to-amazon-s3-in-spring-boot-2p40)
-- [Python Generators](https://dev.to/paulodhiambo/python-generators-36eo)
 <!-- BLOG-POST-LIST:END -->
