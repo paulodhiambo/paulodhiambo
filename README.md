@@ -1,67 +1,50 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
-<p align="left">
-  <a href="https://twitter.com/paulodhiamboh">
-    <img src="https://img.shields.io/twitter/follow/paulodhiamboh?paulodhiamboh?color=green&logo=twitter" alt="twitter" />
-  </a>
-  <a href="https://github.com/paulodhiambo/paulodhiambo">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo" alt="page views" />
-  </a>
-  <a href="https://www.reddit.com/user/paulodhiambo">
-    <img alt="Reddit User Paul Odhiambo" src="https://img.shields.io/reddit/user-karma/combined/paulodhiambo?label=paul&logo=reddit">
-  </a>
-  <a href="https://github.com/paulodhiambo?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/paulodhiambo?color=green&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/paulodhiambo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://stackoverflow.com/users/11970826/odhiambopaul">
-    <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-  </a>
+ <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Paul</h1>
+
+<h3 align="center">A Software Engineer.</h3>
+
+- 🔭 I’m currently working on Android and Spring Boot projects
+- 🔭 A contributor to Kotlin, Java, Python and Flutter projects
+- 🌱 Currently learning Golang.
+- 👯 I’m looking to collaborate on Open source projects.
+
+
+ My social handles 😊 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulodhiambo/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11970826/paulodhiambo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/paulodhiamboh) [![Reddit](https://img.shields.io/reddit/user-karma/combined/paulodhiambo?label=paul&logo=reddit)](https://www.reddit.com/user/paulodhiambo)
+
+### Languages
+
+ <p align="center">
+<img  src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin">&nbsp;
+<img  src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java">&nbsp;
+<img  src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart">&nbsp;
+<img  src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">&nbsp;
+<img  src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">&nbsp;
 </p>
 
 
-## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
-![Dart](https://img.shields.io/badge/-Dart-181717?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-FCA121?style=flat-square&logo=flutter)
-![Django](https://img.shields.io/badge/-django-E34A86?style=flat-square&logo=django)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-## My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=paulodhiambo&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo" />
-</a>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=paulodhiambo&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+        <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo&hide=html&layout=compact&theme=dark" /></td>      
+    </tr>   
+  </table>
+</center>
 
 <br>
 
-## Stuff I worked on last week⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True"/>
-</a>
+<center>
+  <table>
+    <tr>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True&theme=dark"/></td>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulodhiambo&repo=Gmovies&theme=dark" /></td>      
+    </tr>   
+  </table>
+</center>
 
-<h2> About Me</h2>
-
-- 🔭 I’m currently working on Spring Boot Microservices
-
-- 🌱 I’m currently learning AWS cloud infrastructure
-
-- 👯 I’m looking to collaborate on Open source projects.
+<br>
 
 📕📜 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
