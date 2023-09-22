@@ -1,9 +1,8 @@
  <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Paul</h1>
 
-<h3 align="center">A Software Engineer.</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on Android and Spring Boot projects
-- 🔭 A contributor to Kotlin, Java, Python and Flutter projects
+- 🔭 A contributor to Kotlin, Java, Python, Android, Spring Boot and Flutter projects
 - 🌱 Currently learning Golang.
 - 👯 I’m looking to collaborate on Open source projects.
 
