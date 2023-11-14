@@ -27,7 +27,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=paulodhiambo&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-        <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo&hide=html&layout=compact&theme=dark" /></td>      
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True&theme=dark"/></td>
     </tr>   
   </table>
 </center>
@@ -37,7 +37,7 @@
 <center>
   <table>
     <tr>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True&theme=dark"/></td>
+         <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo&hide=html&layout=compact&theme=dark" /></td>      
         <td><img align="center" src="https://leetcard.jacoblin.cool/paulodhiambo?theme=dark&font=Noto%20Sans&ext=heatmap" /></td>      
     </tr>   
   </table>
