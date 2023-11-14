@@ -38,7 +38,7 @@
   <table>
     <tr>
         <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True&theme=dark"/></td>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulodhiambo&repo=Gmovies&theme=dark" /></td>      
+        <td><img align="center" src="https://leetcard.jacoblin.cool/paulodhiambo?theme=dark&font=Noto%20Sans&ext=heatmap" /></td>      
     </tr>   
   </table>
 </center>
