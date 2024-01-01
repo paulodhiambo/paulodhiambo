@@ -2,8 +2,8 @@
 
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 A contributor to Kotlin, Java, Python, Android, Spring Boot and Flutter projects
-- 🌱 Currently learning Golang.
+- 🔭 A contributor to Kotlin, Java, Python, Android, Spring Boot and Golang projects
+- 🌱 Currently learning Rust.
 - 👯 I’m looking to collaborate on Open source projects.
 
 
