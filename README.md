@@ -1,8 +1,8 @@
  <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Paul</h1>
 
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 A contributor to Kotlin, Java, Python, Android, Spring Boot and Golang projects
+- 🔭 A contributor to Golang, Kotlin, Java, Python, Android, and Spring Boot projects
 - 🌱 Currently learning Rust.
 - 👯 I’m looking to collaborate on Open source projects.
 
@@ -47,7 +47,7 @@
 
 📕📜 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [How I built one of the top 20 most used GitHub Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [How to create Django REST APIs](https://dev.to/paulodhiambo/how-to-create-django-rest-apis-150m)
 - [Getting started with Spring Boot and Docker](https://dev.to/paulodhiambo/getting-started-with-spring-boot-and-docker-32hl)
 - [How to upload files to Amazon S3 in Spring Boot](https://dev.to/paulodhiambo/how-to-upload-files-to-amazon-s3-in-spring-boot-2p40)
