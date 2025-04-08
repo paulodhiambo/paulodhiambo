@@ -1,8 +1,8 @@
  <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Paul</h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
-- 🔭 A contributor to Golang, Kotlin, Java, Python, Android, and Spring Boot projects
+- 🔭 A contributor to Golang and Java Projects
 - 🌱 Currently learning Rust.
 - 👯 I’m looking to collaborate on Open source projects.
 
@@ -14,9 +14,7 @@
 ### Languages
 
  <p align="center">
-<img  src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin">&nbsp;
 <img  src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java">&nbsp;
-<img  src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart">&nbsp;
 <img  src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">&nbsp;
 <img  src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">&nbsp;
 </p>
@@ -33,15 +31,6 @@
 </center>
 
 <br>
-
-<center>
-  <table>
-    <tr>
-         <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo&hide=html&layout=compact&theme=dark" /></td>      
-        <td><img align="center" src="https://leetcard.jacoblin.cool/paulodhiambo?theme=dark&font=Noto%20Sans&ext=heatmap" /></td>      
-    </tr>   
-  </table>
-</center>
 
 <br>
 
